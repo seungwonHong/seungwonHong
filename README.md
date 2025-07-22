@@ -61,7 +61,7 @@
 > 커뮤니티 기반 제품 비교/리뷰 플랫폼  
 > - React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Zustand, Tanstack Query, API Routes, MongoDB, Vercel
 
-### [와인두잔](https://github.com/FE14-Part3-Team2/winedoojan)
+### [Winedoojan](https://github.com/FE14-Part3-Team2/winedoojan)
 > 와인 추천 및 기록 서비스  
 > - React, TypeScript, Next.js, Tailwind CSS, Zustand, Vercel
 
