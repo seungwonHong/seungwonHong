@@ -46,9 +46,9 @@
 - **Google Developer Student Clubs - TUK**
   - **GDGoC TUK Website**
 - **Codeit Bootcamp**
-  - **FE14-part2-team5-OpenMind**
+  - **FE14-part2-Team5-OpenMind**
   - **FE14-Part3-Team2-Winedoojan**
-  - **part4-team6-Pickly**
+  - **FE14-part4-Team6-Pickly**
 
 ---
 
