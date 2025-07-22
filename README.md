@@ -65,10 +65,6 @@
 > 와인 추천 & 공유 & 리뷰 플랫폼
 > - React, TypeScript, Next.js, Tailwind CSS, Zustand, Vercel
 
-### [OpenMind](https://github.com/FE14-part2-team5-OpenMind/OpenMind_Team5)
-> 아이디어 공유/토론/질의응답 플랫폼
-> - React, Javascript, Vercel
-
 ---
 
 ## 📈 Stats
