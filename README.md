@@ -43,11 +43,12 @@
 
 ## 🏆 Achievements & Organizations
 
-- **Google Developer Student Clubs - TUK**  
-- **FE14-part2-team5-OpenMind**
-- **FE14-Part3-Team2-Winedoojan**
-- **part4-team6-Pickly**
-- **Pull Shark x2, YOLO** (GitHub Achievements)
+- **Google Developer Student Clubs - TUK**
+  - **GDGoC TUK Website**
+- **Codeit Bootcamp**
+  - **FE14-part2-team5-OpenMind**
+  - **FE14-Part3-Team2-Winedoojan**
+  - **part4-team6-Pickly**
 
 ---
 
