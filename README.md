@@ -62,12 +62,12 @@
 > - React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Zustand, Tanstack Query, API Routes, MongoDB, Vercel
 
 ### [Winedoojan](https://github.com/FE14-Part3-Team2/winedoojan)
-> 와인 추천 및 기록 서비스  
+> 와인 추천 & 공유 & 리뷰 플랫폼
 > - React, TypeScript, Next.js, Tailwind CSS, Zustand, Vercel
 
 ### [OpenMind](https://github.com/FE14-part2-team5-OpenMind/OpenMind_Team5)
-> 아이디어 공유/토론 플랫폼
-> React, Javascript, Vercel
+> 아이디어 공유/토론/질의응답 플랫폼
+> - React, Javascript, Vercel
 
 ---
 
