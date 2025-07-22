@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=Framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/MoDo-1A1A1A?style=flat-square&logo=MoDo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+
 
 </div>
 
@@ -44,8 +44,8 @@
 
 - **Google Developer Student Clubs - TUK**  
 - **FE14-part2-team5-OpenMind**
-- **FE14-Part3-Team2**
-- **part4-team6**
+- **FE14-Part3-Team2-Winedoojan**
+- **part4-team6-Pickly**
 - **Pull Shark x2, YOLO** (GitHub Achievements)
 
 ---
@@ -54,14 +54,15 @@
 
 ### [Pickly](https://github.com/part4-team6/Pickly)
 > 커뮤니티 기반 제품 비교/리뷰 플랫폼  
-> - React, Next.js, TypeScript, Tailwind CSS, Zustand, Tanstack Query, Vercel
+> - React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Zustand, Tanstack Query, API Routes, MongoDB, Vercel
 
 ### [와인두잔](https://github.com/FE14-Part3-Team2/winedoojan)
 > 와인 추천 및 기록 서비스  
-> - React, TypeScript, MongoDB
+> - React, TypeScript, Next.js, Tailwind CSS, Zustand, Vercel
 
 ### [OpenMind](https://github.com/FE14-part2-team5-OpenMind/OpenMind_Team5)
 > 아이디어 공유/토론 플랫폼
+> React, Javascript, Vercel
 
 ---
 
